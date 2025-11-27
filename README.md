@@ -36,3 +36,14 @@ cd library-project
 
 # Make the script executable
 chmod +x library.sh
+$ bash library.sh
+Welcome to Library Management
+1. Add Book
+2. View Books
+3. Delete Book
+4. Search Book
+5. Exit
+Enter your choice: 1
+Enter book name: Learning Bash
+Book added successfully!
+
