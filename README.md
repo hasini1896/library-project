@@ -19,7 +19,5 @@
 ```bash
 chmod +x library.sh
 
----
-
 
 
