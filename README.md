@@ -1,49 +1,38 @@
-# Library Project ![License](https://img.shields.io/badge/License-MIT-green)
+# Library Project
 
-## 📝 Overview
-`library.sh` is a **Linux/Ubuntu shell script** designed to manage library-related tasks efficiently.  
-It allows users to add, view, delete, and search library records using a simple command-line interface.  
-This project demonstrates the use of shell scripting for practical file management and task automation.
+This is my `library.sh` project.  
+It is a shell script for managing library files.
 
----
+## How to Run
+```bash
+bash library.sh
 
-## 🚀 Features
 
-| Feature                          | Description                                    |
-|---------------------------------|------------------------------------------------|
-| Easy to use                      | Run directly in terminal                        |
-| Lightweight                       | Minimal dependencies                            |
-| Record management                 | Add, view, delete, search library records     |
-| Customizable                      | Easily modify to add more functionality       |
-| Error handling                     | Prevents invalid inputs                        |
+> **Tip:** `#` for headings, `-` for bullet points, ```bash``` for code blocks.
 
 ---
 
-## 🛠 Requirements
-- Linux/Ubuntu environment  
-- Bash shell
+### **Step 4: Commit changes**
+- Scroll down → add a commit message, e.g.:
+
+
+- Choose **Commit directly to main**  
+- Click **Commit changes**
+
+🎉 Your README is now visible on GitHub with all your content.
 
 ---
 
-## 💻 Installation
+# **METHOD 2: Edit README locally on Ubuntu**
+
+### **Step 1: Open Terminal**
+Press:
+
+
+---
+
+### **Step 2: Go to your project folder**
+Your file is on Desktop:
 
 ```bash
-# Clone the repository
-git clone https://github.com/hasini1896/library-project.git
-
-# Go to the project directory
-cd library-project
-
-# Make the script executable
-chmod +x library.sh
-$ bash library.sh
-Welcome to Library Management
-1. Add Book
-2. View Books
-3. Delete Book
-4. Search Book
-5. Exit
-Enter your choice: 1
-Enter book name: Learning Bash
-Book added successfully!
-
+cd ~/Desktop/library-project
