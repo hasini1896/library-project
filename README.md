@@ -18,3 +18,17 @@
 
 ```bash
 chmod +x library.sh
+
+---
+
+This **detailed README** now includes:
+
+- Features  
+- Requirements  
+- Installation instructions  
+- How to run  
+- Usage example  
+- Contribution info  
+
+---
+
