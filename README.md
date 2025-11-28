@@ -3,8 +3,6 @@
 This is my `library.sh` project.  
 It is a shell script for managing library files.
 
-## How to Run
-bash library.sh
 
 ## Features
 - Simple shell script
@@ -19,13 +17,7 @@ Hasini R
 
 ---
 
-## Features
-- Simple and easy-to-use shell script
-- Can run on any Linux/Ubuntu terminal
-- Lightweight and fast
-- Easily customizable for additional tasks
 
----
 
 ## How to Run
 1. Open a terminal in the project directory.
