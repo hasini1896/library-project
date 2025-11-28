@@ -10,7 +10,11 @@ It is a shell script for managing library files.
 - Easy to modify
 
 ## Author
+Chaitra Darshan G
 Hasini R
+Suneela V
+Vaishnavi G
+Manikandan N
 # Library Project
 
 `library.sh` is a simple shell script designed to manage and organize library-related tasks on Linux/Ubuntu systems.  
